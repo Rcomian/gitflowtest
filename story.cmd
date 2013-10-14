@@ -3,4 +3,4 @@
 @echo In fact reconciling his human thoughts and feelings with his new, insect body is the chief conflict Gregor faces in the story. Despite having changed into an insect, Gregor initially still wants to go to work so that he can provide for his family. It takes him time to realize that he can no longer play that role in his family and that he can’t even go outside in his current state.
 @echo
 @echo Copyright AutoCoding Systems Limited
-@echo v1.0
+@echo v2.0
