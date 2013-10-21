@@ -5,4 +5,4 @@
 @echo As the story continues, Gregor’s insect body has an increasing influence on his psychology. He finds that he is at ease hiding in the dark under the sofa in his room, like a bug would, even though his body won’t fit comfortably. He also discovers that he enjoys crawling on the walls and ceiling.
 @echo
 @echo Copyright (C) AutoCoding Systems Limited
-@echo v2.0
+@echo v2.1
