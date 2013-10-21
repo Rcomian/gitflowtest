@@ -4,5 +4,5 @@
 @echo In fact reconciling his human thoughts and feelings with his new, insect body is the chief conflict Gregor faces in the story. Despite having changed into an insect, Gregor initially still wants to go to work so that he can provide for his family. It takes him time to realize that he can no longer play that role in his family and that he can’t even go outside in his current state.
 @echo As the story continues, Gregor’s insect body has an increasing influence on his psychology. He finds that he is at ease hiding in the dark under the sofa in his room, like a bug would, even though his body won’t fit comfortably. He also discovers that he enjoys crawling on the walls and ceiling.
 @echo
-@echo Copyright AutoCoding Systems Limited
+@echo Copyright (C) AutoCoding Systems Limited
 @echo v2.0
